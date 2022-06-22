@@ -6,8 +6,8 @@
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Doodles Noodles",
-  "SYMBOL": "DOODLES",
+  "NFT_NAME": "Ooglers",
+  "SYMBOL": "Ooglers",
   "MAX_SUPPLY": 2500,
   "WEI_COST": 100000000000000,
   "DISPLAY_COST": 0.1,
